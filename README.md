@@ -2,6 +2,8 @@
 
 
 <div align="center">
+  
+### **의미 있는 결과를 좋아하는 분석가**
 
 
 ## **Stack** ✨
@@ -12,6 +14,11 @@
 
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white&style=plastic)
 ![MySQL](https://img.shields.io/badge/MySQL-%23FF9900.svg?style=for-the-badge&logo=MySQL&logoColor=white&style=plastic)
+  
+## **Contacts** 💗
+
+[![Tistory](https://img.shields.io/badge/Tistory-000000?&logo=tistory&logoColor=white&style=flat-sqaure)](https://coco0414.tistory.com/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-sqaure&logo=gmail&logoColor=white)](mailto:seokhool1995@gmail.com)
 
 
 ## **Stats** 🛩️

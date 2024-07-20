@@ -13,8 +13,9 @@
 ![Pytorch](https://img.shields.io/badge/Pytorch-3670A0?style=for-the-badge&logo=Pytorch&logoColor=ffdd54&style=plastic)
 ![Tableau](https://img.shields.io/badge/Tableau-3670A0?style=for-the-badge&logo=tableau&logoColor=ffdd54&style=plastic)
 
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white&style=plastic)
-![MySQL](https://img.shields.io/badge/SQL-%23FF9900.svg?style=for-the-badge&logo=SQL&logoColor=white&style=plastic)
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazonwebservices&logoColor=white&style=plastic)
+![MySQL](https://img.shields.io/badge/Lambda-%23FF9900.svg?style=for-the-badge&logo=awslambda&logoColor=white&style=plastic)
+![MySQL](https://img.shields.io/badge/SQL-%23FF9900.svg?style=for-the-badge&logo=amazonrds&logoColor=white&style=plastic)
   
 
 ## **Stats** 🛩️

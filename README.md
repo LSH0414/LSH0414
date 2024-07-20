@@ -16,13 +16,13 @@
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white&style=plastic)
 ![MySQL](https://img.shields.io/badge/SQL-%23FF9900.svg?style=for-the-badge&logo=SQL&logoColor=white&style=plastic)
   
-## **Contacts** 💗
-
-[![Tistory](https://img.shields.io/badge/Tistory-000000?&logo=tistory&logoColor=white&style=flat-sqaure)](https://coco0414.tistory.com/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-sqaure&logo=gmail&logoColor=white)](mailto:seokhool1995@gmail.com)
-
 
 ## **Stats** 🛩️
 
 ![Seokho's GitHub stats](https://github-readme-stats.vercel.app/api?username=LSH0414&show_icons=true&theme=vision-friendly-dark)
 
+
+## **Contacts** 💗
+
+[![Tistory](https://img.shields.io/badge/Tistory-000000?&logo=tistory&logoColor=white&style=flat-sqaure)](https://coco0414.tistory.com/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-sqaure&logo=gmail&logoColor=white)](mailto:seokhool1995@gmail.com)

@@ -10,10 +10,11 @@
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54&style=plastic)
 ![Tensorflow](https://img.shields.io/badge/Tensorflow-3670A0?style=for-the-badge&logo=Tensorflow&logoColor=ffdd54&style=plastic)
+![Pytorch](https://img.shields.io/badge/Pytorch-3670A0?style=for-the-badge&logo=Pytorch&logoColor=ffdd54&style=plastic)
 ![Tableau](https://img.shields.io/badge/Tableau-3670A0?style=for-the-badge&logo=tableau&logoColor=ffdd54&style=plastic)
 
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white&style=plastic)
-![MySQL](https://img.shields.io/badge/MySQL-%23FF9900.svg?style=for-the-badge&logo=MySQL&logoColor=white&style=plastic)
+![MySQL](https://img.shields.io/badge/SQL-%23FF9900.svg?style=for-the-badge&logo=SQL&logoColor=white&style=plastic)
   
 ## **Contacts** 💗
 
